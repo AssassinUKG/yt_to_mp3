@@ -16,7 +16,7 @@ yt_to_mp3.py YoutubeLink_or_ID
 ./yt_to_mp3.py https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ```
 
-* Rick Astley youtube line above. 
+* Rick Astley youtube link above. 
 
 Example
 
