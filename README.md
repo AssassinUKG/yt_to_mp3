@@ -12,6 +12,11 @@ choco install ffmpeg
 
 yt_to_mp3.py YoutubeLink_or_ID
 
+To downlaod a playlist only use the ID after list=
+(Original link: https://www.youtube.com/watch?v=bNU_AA0aALM&list=PLUHklY56tfb14L3HuIoofDaWoKL2Fgn4E)
+
+ie: yt_to_mp3.py PLUHklY56tfb14L3HuIoofDaWoKL2Fgn4E
+
 ```
 ./yt_to_mp3.py https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ```
